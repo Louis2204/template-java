@@ -5,7 +5,7 @@ bouton.addEventListener('click',()=>
     alert('Bienvenue')
 });
 
-bouton.addEventListener('2click',()=>
+bouton.addEventListener('click',()=>
 {
     alert('Vous êtes déconnecté')
 });
